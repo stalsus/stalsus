@@ -8,7 +8,7 @@
 ### {Socials}
 
 - Steam: https://steamcommunity.com/id/stalsus/
-- <a href="https://twitter.com/stalsus" target="_blank"><i class="fab fa-twitter"></i></a>
+- <a href="https://twitter.com/stalsus" target="_blank"><i class="fab fa-twitter">
 
 <!--
 **stalsus/stalsus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
