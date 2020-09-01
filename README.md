@@ -9,3 +9,5 @@
 
 - Steam: https://steamcommunity.com/id/stalsus/
 - Twitter: https://twitter.com/stalsus
+
+![](https://i.imgur.com/3yjMxgT.gif)
