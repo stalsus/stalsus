@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello there! 👋
+
+### {Currently Working On}
+
+- Howan.
+- A personal website.
+
+### {Socials}
+
+- Steam: https://steamcommunity.com/id/stalsus/
+- <a href="https://twitter.com/stalsus" target="_blank"><i class="fab fa-twitter"></i></a>
 
 <!--
 **stalsus/stalsus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
