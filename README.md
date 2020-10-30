@@ -12,5 +12,5 @@ Just a 17 year old that enjoys working on stuff.
 - Twitter: https://twitter.com/stalsus
 
 <p align="center">
-    <img src="https://i.imgur.com/ltNDW6n.gif">
+    <img src="https://cdn.discordapp.com/attachments/617707665514037269/771385857092354068/blushingggggggg.gif">
 </p>
