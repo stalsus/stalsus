@@ -11,4 +11,6 @@ Just a 17 year old that enjoys working on stuff.
 - Steam: https://steamcommunity.com/id/stalsus/
 - Twitter: https://twitter.com/stalsus
 
-![](https://i.imgur.com/dj2EazM.gif)
+<p align="center">
+    <img src="https://i.imgur.com/dj2EazM.gif">
+</p>
