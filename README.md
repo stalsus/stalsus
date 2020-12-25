@@ -2,9 +2,7 @@
 Just a 17 year old that enjoys working on stuff.
 ### {Currently Working On}
 
-- Howan.
-- A personal website.
-- Cublitris.
+?
 
 ### {Socials}
 
